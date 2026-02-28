@@ -1,16 +1,19 @@
-## Hi there 👋
+# Emanuele Riontino
 
-<!--
-**emanueleriontino/emanueleriontino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I began my training in wet-lab Biochemistry and Tissue Engineering, where I developed an appreciation for how dependent modern biology is on reliable computational infrastructure.
 
-Here are some ideas to get you started:
+I am currently building foundations in bioinformatics, with a focus on reproducible pipeline engineering and RNA-seq workflow design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I’m Working On
+
+- Structured Bash-based workflows  
+- Reproducible execution practices  
+- Preparing to transition toward Nextflow  
+
+## Direction
+
+Strengthening engineering fundamentals before exploring higher-level AI applications in biological systems.
+
+## Connect
+
+LinkedIn: [www.linkedin.com/in/emanuele-riontino]
