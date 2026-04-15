@@ -1,18 +1,7 @@
 # Emanuele Riontino
 
-I began my training in wet-lab Biochemistry and Tissue Engineering, where I developed an appreciation for how dependent modern biology is on reliable computational infrastructure.
-
-I am currently building foundations in bioinformatics, with a focus on reproducible pipeline engineering and RNA-seq workflow design.
-
-## What I’m Working On
-
-- Structured Bash-based workflows  
-- Reproducible execution practices  
-- Preparing to transition toward Nextflow  
-
-## Direction
-
-Strengthening engineering fundamentals before exploring higher-level AI applications in biological systems.
+I trained in wet-lab Biochemistry and Tissue Engineering, where I developed a working understanding of how dependent modern biology is on reliable computational infrastructure.
+I now focus on reproducible pipeline engineering, Nextflow module development, and automated biomedical literature analysis. Recent work includes an nf-core Nextflow module contribution (PR #10824) and a PubMed-based research briefing tool for ClawBio (PR #72).
 
 ## Connect
 
